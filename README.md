@@ -50,4 +50,5 @@ Open any modern web browser (Chrome, Firefox, Edge) and navigate to the followin
 | **Still Image (Mid Res)** | `http://[ESP32-IP]/cam-mid.jpg` | Captures a 640x480 JPEG snapshot. Balanced quality and performance. |
 | **Still Image (High Res)** | `http://[ESP32-IP]/cam-hi.jpg` | Captures an 800x600 JPEG snapshot. Highest detail, requires more bandwidth. |
 
+![video or Image sent by ESP32 video server the client side](images/ESP32_webclient.png)
    
