@@ -1,4 +1,4 @@
-# ESP32Cam-OV2640Camera Wi-Fi Web Server for MJPEG Video Streaming & Multi-Resolution Still Capture  - Dr.K.K.Thyagharajan, Dean(Research), RMD Engineering College
+# ESP32Cam-OV2640Camera Wi-Fi Web Server for MJPEG Video Streaming & Multi-Resolution Still Capture  - By Dr.K.K.Thyagharajan, Dean(Research), RMD Engineering College
 
 ![ESP32-CAM](https://img.shields.io/badge/ESP32-CAM-FF0000?style=for-the-badge&logo=arduino&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
