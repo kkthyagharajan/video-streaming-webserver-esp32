@@ -52,5 +52,5 @@ Open any modern web browser (Chrome, Firefox, Edge) and navigate to the followin
 
 ## Video Stream Displayed on the Browser at the Client Side:
 
-![video or Image sent by ESP32 video server the client side](ESP32_webclient.png)
+![Video Stream Sent by ESP32 Web Server to the Client Browser](ESP32_webclient.png)
    
