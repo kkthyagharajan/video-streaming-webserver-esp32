@@ -45,7 +45,7 @@ Open any modern web browser (Chrome, Firefox, Edge) and navigate to the followin
 
 | Purpose | URL | Description |
 | :--- | :--- | :--- |
-| **Live Video Stream** | `http://[ESP32-IP]/stream` | Main endpoint for MJPEG video streaming. Use this for live viewing or as a video feed for Python scripts. Eg. http://10.20.20.192/stream` |
+| **Live Video Stream** | `http://[ESP32-IP]/stream` | Main endpoint for MJPEG video streaming. Use this for live viewing or as a video feed for Python scripts. Eg. http://10.20.20.78/stream` |
 | **Still Image (Low Res)** | `http://[ESP32-IP]/cam-lo.jpg` | Captures a 320x240 JPEG snapshot. Fastest response, lowest bandwidth. |
 | **Still Image (Mid Res)** | `http://[ESP32-IP]/cam-mid.jpg` | Captures a 640x480 JPEG snapshot. Balanced quality and performance. |
 | **Still Image (High Res)** | `http://[ESP32-IP]/cam-hi.jpg` | Captures an 800x600 JPEG snapshot. Highest detail, requires more bandwidth. |
